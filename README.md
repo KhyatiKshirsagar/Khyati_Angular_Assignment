@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/KhyatiKshirsagar/Khyati_Angular_Assignment/master/Home%20Snapshot.jpeg">
 # Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
